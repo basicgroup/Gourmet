@@ -1,0 +1,27 @@
+.Header{
+    max-width: 1600px;
+    min-width: 500px;
+    position: relative;
+}
+
+.Header-image{
+    max-width: 100%;
+    /* height: auto; */
+}
+
+.Header-content-wrap{
+    position: absolute;
+    bottom: 0;
+    left: 0;
+    padding: 12px 24px;
+    opacity: 0.6;
+    
+}
+
+.Header-content{
+    font-size: 36px;
+    font-family: "Playfair Display";
+    letter-spacing: 5px;
+    font-weight: 400;
+    margin: 10px 0;
+}
